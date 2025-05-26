@@ -14,7 +14,7 @@ Funcionalidades
 
 Instalação:
 
-1.	Clone o repositório:
+1.	Clone o repositório: https://github.com/CharlieTrax/Fallout-Calculator-WinForms.git
 2.	Abra o projeto no Visual Studio 2022.
 3.	Compile e execute (F5).
 
@@ -23,6 +23,11 @@ Como usar:
 •	Clique nos botões numéricos e de operação para realizar cálculos.
 •	O resultado aparece no display.
 •	Use o botão de apagar para limpar o display.
+
+Imagens: 
+file:///C:/Users/faria/Downloads/Imagem%20do%20WhatsApp%20de%202025-05-26%20à(s)%2011.06.47_3bcabf03.jpg
+file:///C:/Users/faria/Downloads/Imagem%20do%20WhatsApp%20de%202025-05-26%20à(s)%2011.07.28_fae75a2b.jpg
+file:///C:/Users/faria/Downloads/Imagem%20do%20WhatsApp%20de%202025-05-26%20à(s)%2011.08.29_6ab546a6.jpg
 
 Requisitos:
 
