@@ -45,12 +45,13 @@ git clone https:
 Este projeto está licenciado sob a MIT License. Sinta-se livre para usar e modificar!
 By.CharlieTyo
 
-Credits to:
-1-Kauan Faria Nascimeto;
-2-Erick Fernando Priore Michelan;
-3-Guilherme Messias de França;
-4-Matheus Paulucci Ferreira;
-5-Guilherme Fonseca Oliva.
+Membros do projeto:
+Erick Fernando Priore Michelan: 3023104368
+Guilherme Fonseca Oliva: 3025104317
+Guilherme Messias de França: 3024105228
+Kauan Faria Nascimento: 3024103486
+Matheus Paulucci Ferreira: 3024104172
+Univove.
 
 
 
