@@ -1,1 +1,41 @@
+Fallout Calculator WinForms
+
+Descrição:
+
+Uma calculadora estilizada inspirada no universo Fallout, desenvolvida em C# com Windows Forms (.NET Framework 4.7.2). Possui operações básicas (soma, subtração, multiplicação, divisão), potência, raiz quadrada e porcentagem, com interface customizada em tons de verde e preto.
+Funcionalidades
+
+•	Operações matemáticas básicas
+•	Potenciação
+•	Raiz quadrada
+•	Porcentagem
+•	Interface customizada (estilo Fallout)
+•	Exibição de resultados com ou sem casas decimais
+
+Instalação:
+
+1.	Clone o repositório:
+2.	Abra o projeto no Visual Studio 2022.
+3.	Compile e execute (F5).
+
+Como usar:
+
+•	Clique nos botões numéricos e de operação para realizar cálculos.
+•	O resultado aparece no display.
+•	Use o botão de apagar para limpar o display.
+
+Requisitos:
+
+•	.NET Framework 4.7.2
+•	Visual Studio 2022 ou superior
+
+Contribuição:
+
+Pull requests são bem-vindos! Para grandes mudanças, abra uma issue primeiro para discutir o que você gostaria de modificar.
+Licença
+
+LICENSE
+---
+
+
 
