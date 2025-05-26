@@ -32,7 +32,7 @@ Operações básicas: adição, subtração, multiplicação e divisão
 
 1-Clone este repositório:
 git clone https:
-[//github.com/seu-usuario/calculadora-fallout.git](https://github.com/CharlieTrax/Calculadora-Vault-WinForms.git)
+[//github.com/seu-usuario/calculadora-fallout.git](https://github.com/CharlieTrax/Fallout-Calculator-WinForms.git)
 
 2-Abra o projeto no Visual Studio.
 
