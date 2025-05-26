@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora imperial", "Calculadora imperial\Calculadora imperial.csproj", "{F1F7E605-C24D-42D0-9B6A-561F31444AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F7E605-C24D-42D0-9B6A-561F31444AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F7E605-C24D-42D0-9B6A-561F31444AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F7E605-C24D-42D0-9B6A-561F31444AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F7E605-C24D-42D0-9B6A-561F31444AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD4B167-46BB-40AE-9884-FEC165D0F93C}
+	EndGlobalSection
+EndGlobal
